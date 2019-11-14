@@ -1,1 +1,1 @@
-FROM gcr.io/google_containers/kube-discovery-amd64:V1.0
+FROM gcr.io/google_containers/kube-discovery-amd64
